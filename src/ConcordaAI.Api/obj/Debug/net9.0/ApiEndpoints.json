@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ConcordaAI.Api.Controllers.EventoController",
+    "Method": "ObterTodos",
+    "RelativePath": "api/v1/eventos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConcordaAI.Api.Controllers.EventoController",
+    "Method": "Criar",
+    "RelativePath": "api/v1/eventos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ConcordaAI.Application.DTOs.Eventos.CriarEventoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConcordaAI.Api.Controllers.EventoController",
+    "Method": "ObterPorId",
+    "RelativePath": "api/v1/eventos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

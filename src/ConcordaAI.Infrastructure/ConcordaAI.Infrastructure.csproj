@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConcordaAI.Domain\ConcordaAI.Domain.csproj" />
+    <ProjectReference Include="..\ConcordaAI.Application\ConcordaAI.Application.csproj" />
+    <ProjectReference Include="..\ConcordaAI.Shared\ConcordaAI.Shared.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Persistence\Database\Scripts\*.sql" />
+	</ItemGroup>
+	
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+    <Folder Include="Persistence\Database\Scripts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.79" />
+    <PackageReference Include="dbup-sqlserver" Version="7.2.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

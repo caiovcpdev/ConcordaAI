@@ -1,0 +1,17 @@
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\bin\Debug\net9.0\ConcordaAI.Application.deps.json
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\bin\Debug\net9.0\ConcordaAI.Application.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\bin\Debug\net9.0\ConcordaAI.Application.pdb
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\bin\Debug\net9.0\ConcordaAI.Domain.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\bin\Debug\net9.0\ConcordaAI.Shared.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\bin\Debug\net9.0\ConcordaAI.Domain.pdb
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\bin\Debug\net9.0\ConcordaAI.Shared.pdb
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.csproj.AssemblyReference.cache
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.AssemblyInfoInputs.cache
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.AssemblyInfo.cs
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.csproj.CoreCompileInputs.cache
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\Concorda.7782A7AA.Up2Date
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\refint\ConcordaAI.Application.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.pdb
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ref\ConcordaAI.Application.dll

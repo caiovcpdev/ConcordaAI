@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConcordaAI.Application.DTOs.CheckIn
+{
+    public class RegistrarCheckInRequest
+    {
+        public decimal Latitude { get; set; }
+        public decimal Longitude { get; set; }
+        public string Dispositivo { get; set; } = string.Empty;
+    }
+}

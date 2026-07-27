@@ -1,0 +1,11 @@
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.AssemblyInfoInputs.cache
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.AssemblyInfo.cs
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\bin\Debug\net9.0\ConcordaAI.Domain.deps.json
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\bin\Debug\net9.0\ConcordaAI.Domain.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\bin\Debug\net9.0\ConcordaAI.Domain.pdb
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\refint\ConcordaAI.Domain.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.pdb
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ref\ConcordaAI.Domain.dll
