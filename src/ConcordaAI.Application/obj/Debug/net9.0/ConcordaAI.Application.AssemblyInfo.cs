@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcordaAI.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4288e94997a3dafeaa144c64f6c45430f5c2f065")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18889f3c878be3e46e4141a97751a95bb287ad9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcordaAI.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcordaAI.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -63,8 +63,8 @@ namespace ConcordaAI.Application.Services
             if (!usuario.Ativo)
                 return Result<LoginResponse>.Fail("Usuário inativo.");
 
-            string novaSenha = "caio@12345";
-            string hash = BCrypt.Net.BCrypt.HashPassword(novaSenha);
+            //string novaSenha = "caio@12345";
+            //string hash = BCrypt.Net.BCrypt.HashPassword(novaSenha);
 
             var senhaValida = BCrypt.Net.BCrypt.Verify(request.Senha, usuario.SenhaHash);
 
