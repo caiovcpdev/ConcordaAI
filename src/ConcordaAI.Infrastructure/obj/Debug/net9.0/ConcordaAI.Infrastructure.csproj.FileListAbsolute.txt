@@ -17,3 +17,4 @@ C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Infrastructu
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Infrastructure\obj\Debug\net9.0\refint\ConcordaAI.Infrastructure.dll
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Infrastructure\obj\Debug\net9.0\ConcordaAI.Infrastructure.pdb
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Infrastructure\obj\Debug\net9.0\ref\ConcordaAI.Infrastructure.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Infrastructure\obj\Debug\net9.0\ConcordaAI.Infrastructure.sourcelink.json

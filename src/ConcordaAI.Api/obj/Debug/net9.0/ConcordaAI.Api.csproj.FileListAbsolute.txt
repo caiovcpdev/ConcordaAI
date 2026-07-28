@@ -101,3 +101,6 @@ C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Api\bin\Debu
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Api\bin\Debug\net9.0\Asp.Versioning.Abstractions.dll
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Api\bin\Debug\net9.0\Asp.Versioning.Http.dll
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Api\bin\Debug\net9.0\Asp.Versioning.Mvc.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Api\bin\Debug\net9.0\BCrypt-Net-Next.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Api\obj\Debug\net9.0\ConcordaAI.Api.sourcelink.json

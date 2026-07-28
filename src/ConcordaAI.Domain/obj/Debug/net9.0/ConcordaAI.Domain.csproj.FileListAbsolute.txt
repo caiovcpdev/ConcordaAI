@@ -9,3 +9,4 @@ C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\D
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\refint\ConcordaAI.Domain.dll
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.pdb
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ref\ConcordaAI.Domain.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Domain\obj\Debug\net9.0\ConcordaAI.Domain.sourcelink.json

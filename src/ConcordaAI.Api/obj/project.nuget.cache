@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cL+Nwwc0ldE=",
+  "dgSpecHash": "UwDdCgBOmSc=",
   "success": true,
   "projectFilePath": "C:\\Users\\caio\\Documents\\VisualStudio\\caio\\ConcordaAI\\src\\ConcordaAI.Api\\ConcordaAI.Api.csproj",
   "expectedPackageFiles": [
@@ -8,10 +8,12 @@
     "C:\\Users\\caio\\.nuget\\packages\\asp.versioning.http\\8.1.1\\asp.versioning.http.8.1.1.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\asp.versioning.mvc\\8.1.1\\asp.versioning.mvc.8.1.1.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\9.0.0\\aspnetcore.healthchecks.sqlserver.9.0.0.nupkg.sha512",
+    "C:\\Users\\caio\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\dbup-core\\6.1.1\\dbup-core.6.1.1.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\dbup-sqlserver\\7.2.0\\dbup-sqlserver.7.2.0.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\caio\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.0\\microsoft.aspnetcore.authentication.jwtbearer.9.0.0.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.16\\microsoft.aspnetcore.openapi.9.0.16.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.13\\microsoft.bcl.cryptography.9.0.13.nupkg.sha512",
     "C:\\Users\\caio\\.nuget\\packages\\microsoft.data.sqlclient\\7.0.2\\microsoft.data.sqlclient.7.0.2.nupkg.sha512",

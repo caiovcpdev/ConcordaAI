@@ -2,10 +2,12 @@
 using ConcordaAI.Api.Responses;
 using ConcordaAI.Application.DTOs.Pagamentos;
 using ConcordaAI.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ConcordaAI.Api.Controllers
 {
+    [Authorize(Roles = "Administrador,Supervisor")]
     [ApiController]
     [ApiVersion("1.0")]
     [Route("api/v{version:apiVersion}")]

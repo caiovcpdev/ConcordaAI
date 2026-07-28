@@ -15,3 +15,4 @@ C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\refint\ConcordaAI.Application.dll
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.pdb
 C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ref\ConcordaAI.Application.dll
+C:\Users\caio\Documents\VisualStudio\caio\ConcordaAI\src\ConcordaAI.Application\obj\Debug\net9.0\ConcordaAI.Application.sourcelink.json

@@ -2,10 +2,12 @@
 using ConcordaAI.Api.Responses;
 using ConcordaAI.Application.DTOs.Eventos;
 using ConcordaAI.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ConcordaAI.Api.Controllers
 {
+    [Authorize(Roles = "Administrador,Supervisor,Operador")]
     [ApiController]
     [ApiVersion("1.0")]
     [Route("api/v{version:apiVersion}/trabalhadores")]
